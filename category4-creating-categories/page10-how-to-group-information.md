@@ -23,5 +23,5 @@ This logical grouping helps readers navigate smoothly.
 
 **Navigation**  
 
- [Importance of Clear Descriptions→](page8-importance-of-clear-descriptions.md) | [Back to Homepage](../index.md) | [How To Group Information →](page10-how-to-group-information.md)
+ [Importance of Clear Descriptions→](page8-importance-of-clear-descriptions.md) | [Back to Homepage](../index.md) | [Folder Structure examples →](page11-folder-structure-examples)
  
