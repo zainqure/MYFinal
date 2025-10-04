@@ -7,8 +7,8 @@ date: 2025-10-03
 This site is the final project for my course. It brings together everything I learned about **organizing, describing, and publishing information** using Markdown.  
 It is divided into seven main categories:
 
-- [Foundations of Organizing](page1-intro-to-organizing.md)  
-- [Resources & Markdown](page4-what-is-markdown.md)
+- [[category1-foundations-of-organizing/index|Foundations of Organizing]]
+- [Resources & Markdown](page4-what-is-markdown)
 - [Describing Resources](page7-metadata-basics.md)  
 - [Creating Categories](page10-how-to-group-information.md)  
 - [Classification & Structure](page13-classification-systems.md)  
@@ -25,6 +25,6 @@ It is divided into seven main categories:
 ---
 
 **Navigation**  
-[→ Next: Foundations of Organizing](page1-intro-to-organizing.md.md)
+[→ Next: Foundations of Organizing](page1-intro-to-organizing.md)
 
 *Created by Zainab Qureshi — Fall 2025*  
