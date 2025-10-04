@@ -7,15 +7,13 @@ date: 2025-10-03
 This site is the final project for my course. It brings together everything I learned about **organizing, describing, and publishing information** using Markdown.  
 It is divided into seven main categories:
 
-- [Foundations of Organizing](page1-intro-to-organizing)
-- [[category1-foundations-of-organizing/index|Foundations of Organizing]]
-
-- [Resources & Markdown](page4-what-is-markdown.md)
-- [Describing Resources](page7-metadata-basics.md)
-- [Creating Categories](page10-how-to-group-information.md)  
-- [Classification & Structure](page13-classification-systems.md)  
-- [Interacting with Information](page16-navigation-design.md)
-- [Publishing & Managing Knowledge](page19-preparing-for-publication.md)  
+- [Foundations of Organizing](category1-foundations-of-organizing/index.md)
+- [Resources & Markdown](category2-resources-markdown/index.md)
+- [Describing Resources](category3-describing-resources/index.md)
+- [Creating Categories](category4-creating-categories/index.md)
+- [Classification & Structure](category5-classification-structure/index.md)
+- [Interacting with Information](category6-interacting-with-information/index.md)
+- [Publishing & Managing Knowledge](category7-publishing-managing-knowledge/index.md)
 
 ---
 

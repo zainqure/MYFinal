@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "category7-publishing-managing-knowledge/page19-preparing-for-publication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "page19-preparing-for-publication"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 419.5
   },
   "right": {
     "id": "b45513bb1fa50e84",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "category7-publishing-managing-knowledge/page19-preparing-for-publication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for page19-preparing-for-publication"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "category7-publishing-managing-knowledge/page19-preparing-for-publication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from page19-preparing-for-publication"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "category7-publishing-managing-knowledge/page19-preparing-for-publication.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of page19-preparing-for-publication"
             }
           }
         ]
@@ -171,8 +171,23 @@
   },
   "active": "95e097daa23985da",
   "lastOpenFiles": [
-    "category1-foundations-of-organizing/page1-intro-to-organizing.md",
     "index.md",
-    "category1-foundations-of-organizing/index.md"
+    "about.md",
+    "references.md",
+    "category6-interacting-with-information/index.md",
+    "category7-publishing-managing-knowledge/index.md",
+    "category5-classification-structure/index.md",
+    "category4-creating-categories/index.md",
+    "category3-describing-resources/index.md",
+    "category2-resources-markdown/index.md",
+    "category1-foundations-of-organizing/index.md",
+    "category2-resources-markdown/page4-what-is-markdown.md",
+    "category1-foundations-of-organizing/page1-intro-to-organizing.md",
+    "Untitled.base",
+    "category1-foundations-of-organizing/page3-real-world-examples.md",
+    "category1-foundations-of-organizing/page2-why-organization-matters.md",
+    "page1-into-to-organizition.md",
+    "Untitled.canvas",
+    "Untitled 1.base"
   ]
 }

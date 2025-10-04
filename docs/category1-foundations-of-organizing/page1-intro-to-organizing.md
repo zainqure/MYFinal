@@ -29,4 +29,4 @@ Think about your computer: when files are scattered everywhere, it’s hard to l
 
 **Navigation**  
 
-[← Introduction to Organizing](page1-intro-to-organizing.md.md) | [Back to Homepage](../index.md) | [Real-World Examples →](page3-real-world-examples.md.md)
+[← Introduction to Organizing](page1-intro-to-organizing.md) | [Back to Homepage](../index.md) | [Real-World Examples →](page3-real-world-examples.md)
