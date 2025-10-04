@@ -25,6 +25,6 @@ It is divided into seven main categories:
 ---
 
 **Navigation**  
-[→ Next: Foundations of Organizing](page1.md)
+[→ Next: Foundations of Organizing](foundations-of-organizing/index.md)
 
 *Created by Zainab Qureshi — Fall 2025*  
