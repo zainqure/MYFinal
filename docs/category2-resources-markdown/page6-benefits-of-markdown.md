@@ -33,14 +33,6 @@ In digital projects, consistency and clarity are crucial. Markdown allows people
 
 ---
 
-## Related Pages
-
-- [What is Markdown?](what-is-markdown.md)  
-- [Markdown Formatting Guide](markdown-formatting-guide.md)  
-- [Homepage](../index.md)  
-
----
-
 **Navigation**  
 
  [Markdown Formatting Guide →](page5-markdown-formatting-guide.md) | [Back to Homepage](../index.md) | [Metadata basics →](page7-metadata-basics.md)

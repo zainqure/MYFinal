@@ -24,14 +24,6 @@ Without clear descriptions, resources become invisible. Imagine a library where 
 
 ---
 
-## Related Pages
-
-- [Metadata and Tags](metadata-and-tags.md)  
-- [Importance of Clear Descriptions](importance-of-clear-descriptions.md)  
-- [Homepage](../index.md)  
-
----
-
 **Navigation**  
 
  [Importance of Clear Descriptions→](page8-importance-of-clear-descriptions.md) | [Back to Homepage](../index.md) | [How To Group Information →](page10-how-to-group-information.md)

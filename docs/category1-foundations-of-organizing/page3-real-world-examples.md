@@ -37,14 +37,6 @@ By noticing organization in action, we understand why it’s important to design
 
 ---
 
-## Related Pages
-
-- [Introduction to Organizing](intro-to-organizing.md)  
-- [Why Organization Matters](why-organization-matters.md)  
-- [Homepage](../index.md)  
-
----
-
 **Navigation**  
 
 [← Real World Example](page3-real-would-examples.md) | [Back to Homepage](../index.md) | [What is Markdown →](page4-what-is-markdown.md) 

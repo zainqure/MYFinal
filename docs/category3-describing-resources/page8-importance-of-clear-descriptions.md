@@ -31,14 +31,6 @@ Organized and well-described resources make a website or collection more profess
 
 ---
 
-## Related Pages
-
-- [What is Resource Description?](what-is-resource-description.md)  
-- [Metadata and Tags](metadata-and-tags.md)  
-- [Homepage](../index.md)  
-
----
-
 **Navigation**  
 
  [Metadata Basics →](page7-metadata-basics.md) | [Back to Homepage](../index.md) | [Resource Description Standards →](page9-resource-description-standards.md)

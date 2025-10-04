@@ -27,14 +27,6 @@ When information is disorganized, people waste time searching, feel confused, an
 
 ---
 
-## Related Pages
-
-- [Introduction to Organizing](intro-to-organizing.md)  
-- [Real-World Examples](real-world-examples.md)  
-- [Homepage](../index.md)  
-
----
-
 **Navigation**  
 
 [← Into to Organizing](page1-into-to-organizition.md) | [Back to Homepage](../index.md) | [Why Organization matters →](page3-real-world-examples.md.md) 

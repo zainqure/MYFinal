@@ -34,14 +34,6 @@ Tags help connect related content across categories.
 
 ---
 
-## Related Pages
-
-- [What is Resource Description?](what-is-resource-description.md)  
-- [Importance of Clear Descriptions](importance-of-clear-descriptions.md)  
-- [Homepage](../index.md)  
-
----
-
 **Navigation**  
 
  [Benefits of Markdown →](page6-benefits-of-markdown) | [Back to Homepage](../index.md) | [Importance of Clear Descriptions →](page8-importance-of-clear-descriptions.md)

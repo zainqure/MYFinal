@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "a9baf0d22ec65c04",
+    "id": "f0476b4103dee22a",
     "type": "split",
     "children": [
       {
-        "id": "a86b31884745a22f",
+        "id": "9837fa5c30702ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "537b296fa3083697",
+            "id": "95e097daa23985da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "20d991fde83e4383",
+    "id": "34dc8beb57a3b3e0",
     "type": "split",
     "children": [
       {
-        "id": "e825bec59af3d18c",
+        "id": "8f5b22a733691352",
         "type": "tabs",
         "children": [
           {
-            "id": "186d93d996645b2a",
+            "id": "72a454226ba7e2b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "fd1fe0ba0e74ce8f",
+            "id": "394c7bbf1ab63474",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "a1cb6699a37b0f76",
+            "id": "ccaee1a2209bd623",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 300
   },
   "right": {
-    "id": "314c83d080d1ef5a",
+    "id": "b45513bb1fa50e84",
     "type": "split",
     "children": [
       {
-        "id": "d8dca9a089b5a6e4",
+        "id": "c53d05ab6aabe49a",
         "type": "tabs",
         "children": [
           {
-            "id": "86e5fc1cf37d943d",
+            "id": "cfd6661ef781c3de",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category2-resources-markdown/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +108,12 @@
             }
           },
           {
-            "id": "1707d2ee33d397a9",
+            "id": "5d338e4eab87f89c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category2-resources-markdown/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -118,7 +122,7 @@
             }
           },
           {
-            "id": "7b222bb7399b061b",
+            "id": "d47f9a9dc37ea3ce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +137,12 @@
             }
           },
           {
-            "id": "2a28f6aebab762be",
+            "id": "87fd46d94f5f9c19",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category2-resources-markdown/index.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,41 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "186d93d996645b2a",
+  "active": "95e097daa23985da",
   "lastOpenFiles": [
-    "docs/category7-publishing-managing-knowledge/page21-portfolio-value.md",
-    "docs/category7-publishing-managing-knowledge/page20-maintaining-a-site.md",
-    "docs/category7-publishing-managing-knowledge/page19-preparing-for-publication.md",
-    "docs/category7-publishing-managing-knowledge/index.md",
-    "docs/category6-interacting-with-information/page18-user-experience.md",
-    "docs/category6-interacting-with-information/page17-linking-strategies.md",
-    "docs/category6-interacting-with-information/page16-navigation-design.md",
-    "docs/category6-interacting-with-information/index.md",
-    "docs/category5-classification-structure/page15-case-study-classification.md",
-    "docs/category5-classification-structure/page14-hierarchy-vs-tags.md",
-    "docs/category5-classification-structure/page13-classification-systems.md",
-    "docs/category5-classification-structure/index.md",
-    "docs/category4-creating-categories/page12-pros-and-cons-of-categorization.md",
-    "docs/category4-creating-categories/page11-folder-structure-examples.md",
-    "docs/category4-creating-categories/page10-how-to-group-information.md",
-    "docs/category4-creating-categories/index.md",
-    "docs/category3-describing-resources/page9-resource-description-standards.md",
-    "docs/category3-describing-resources/page8-importance-of-clear-descriptions.md",
-    "docs/category3-describing-resources/page7-metadata-basics.md",
-    "docs/category3-describing-resources/index.md",
-    "docs/category2-resources-markdown/page6-benefits-of-markdown.md",
-    "docs/category2-resources-markdown/page5-markdown-formatting-guide.md",
-    "docs/category2-resources-markdown/page4-what-is-markdown.md",
-    "docs/category2-resources-markdown/index.md",
-    "docs/category1-foundations-of-organizing/page3-real-world-examples.md",
-    "docs/category1-foundations-of-organizing/page2-why-organization-matters.md",
-    "docs/category7-publishing-managing-knowledge",
-    "docs/category6-interacting-with-information",
-    "docs/category5-classification-structure",
-    "docs/category4-creating-categories",
-    "docs/category3-describing-resources",
-    "docs/category2-resources-markdown",
-    "docs/category1-foundations-of-organizing",
-    "docs"
+    "category1-foundations-of-organizing/page1-intro-to-organizing.md",
+    "index.md",
+    "category1-foundations-of-organizing/index.md"
   ]
 }
