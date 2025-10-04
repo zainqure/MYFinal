@@ -24,4 +24,4 @@ This is **bold** and this is *italic*.
 
 **Navigation**  
 
-[← Real World Examples](page3-real-world-examples.md) | [Back to Homepage](../index.md) | [Real-World Examples →](page5-markdown-formatting-guide.md)
+[← Resources Markdown](category2-resources-markdown/index.md) | [Back to Homepage](../index.md) | [Markdown Formatting Guide →](page5-markdown-formatting-guide.md)

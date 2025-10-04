@@ -11,10 +11,10 @@
             "id": "537b296fa3083697",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 299.5
   },
   "right": {
     "id": "314c83d080d1ef5a",
@@ -165,39 +165,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "186d93d996645b2a",
+  "active": "537b296fa3083697",
   "lastOpenFiles": [
+    "category1-foundations-of-organizing/page2-why-organization-matters.md",
+    "category1-foundations-of-organizing/page3-real-world-examples.md",
+    "category1-foundations-of-organizing/index.md",
     "references.md",
+    "Untitled.canvas",
     "index.md",
-    "category7-publishing-managing-knowledge/page21-portfolio-value.md",
+    "about.md",
+    "page1-into-to-organizition.md",
     "category7-publishing-managing-knowledge/index.md",
+    "category6-interacting-with-information/index.md",
+    "category5-classification-structure/index.md",
+    "category4-creating-categories/index.md",
+    "category3-describing-resources/index.md",
+    "category2-resources-markdown/index.md",
+    "category2-resources-markdown/page5-markdown-formatting-guide.md",
+    "category2-resources-markdown/page4-what-is-markdown.md",
+    "category1-foundations-of-organizing/page1-intro-to-organizing.md",
+    "category7-publishing-managing-knowledge/page21-portfolio-value.md",
     "category7-publishing-managing-knowledge/page19-preparing-for-publication.md",
     "category7-publishing-managing-knowledge/page20-maintaining-a-site.md",
     "category7-publishing-managing-knowledge",
     "category6-interacting-with-information/page18-user-experience.md",
     "category6-interacting-with-information/page17-linking-strategies.md",
     "category6-interacting-with-information/page16-navigation-design.md",
-    "category6-interacting-with-information/index.md",
     "category6-interacting-with-information",
     "category5-classification-structure/page15-case-study-classification.md",
     "category5-classification-structure/page14-hierarchy-vs-tags.md",
     "category5-classification-structure/page13-classification-systems.md",
-    "category5-classification-structure/index.md",
     "category5-classification-structure",
-    "category4-creating-categories/page12-pros-and-cons-of-categorization.md",
-    "category4-creating-categories/page11-folder-structure-examples.md",
-    "category4-creating-categories/page10-how-to-group-information.md",
-    "category4-creating-categories/index.md",
     "category4-creating-categories",
-    "category3-describing-resources/page9-resource-description-standards.md",
-    "category3-describing-resources/page8-importance-of-clear-descriptions.md",
-    "category3-describing-resources/page7-metadata-basics.md",
-    "category3-describing-resources/index.md",
     "category3-describing-resources",
-    "category2-resources-markdown/page4-what-is-markdown.md",
-    "category2-resources-markdown/page6-benefits-of-markdown.md",
-    "category2-resources-markdown/page5-markdown-formatting-guide.md",
-    "category2-resources-markdown/index.md",
     "category2-resources-markdown",
     "category1-foundations-of-organizing",
     "docs/Untitled.canvas",
