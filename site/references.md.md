@@ -18,4 +18,4 @@ This page lists all the external sources I used while creating this site. Includ
 *All external sources are credited and linked back to the pages where they were cited.*  
 
 **Navigation**  
-[← Publishing & Managing Knowledge](page21-portfolio-value.md.md) | [Back to Homepage](index.md)
+[← About](about.md) | [Back to Homepage](index.md)

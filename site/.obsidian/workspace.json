@@ -349,12 +349,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "references.md.md",
+                "file": "category1-foundations-of-organizing/page2-why-organization-matters.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "references.md"
+              "title": "page2-why-organization-matters.md"
             }
           }
         ],
@@ -431,7 +431,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references.md.md",
+                "file": "category1-foundations-of-organizing/page2-why-organization-matters.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -441,7 +441,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for references.md"
+              "title": "Backlinks for page2-why-organization-matters.md"
             }
           },
           {
@@ -450,12 +450,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references.md.md",
+                "file": "category1-foundations-of-organizing/page2-why-organization-matters.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from references.md"
+              "title": "Outgoing links from page2-why-organization-matters.md"
             }
           },
           {
@@ -479,13 +479,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references.md.md",
+                "file": "category1-foundations-of-organizing/page2-why-organization-matters.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of references.md"
+              "title": "Outline of page2-why-organization-matters.md"
             }
           }
         ]
@@ -508,14 +508,15 @@
   },
   "active": "0a83f9eff2872478",
   "lastOpenFiles": [
+    "category1-foundations-of-organizing/page1-intro-to-organizing.md.md",
     "index.md.md",
     "about.md.md",
     "references.md.md",
     "category7-publishing-managing-knowledge/page21-portfolio-value.md.md",
+    "category6-interacting-with-information/page17-linking-strategies.md.md",
+    "category6-interacting-with-information/page18-user-experience.md.md",
     "category7-publishing-managing-knowledge/page20-maintaining-a-site.md.md",
     "category7-publishing-managing-knowledge/page19-preparing-for-publication.md.md",
-    "category6-interacting-with-information/page18-user-experience.md.md",
-    "category6-interacting-with-information/page17-linking-strategies.md.md",
     "category6-interacting-with-information/page16-navigation-design.md.md",
     "category5-classification-structure/page15-case-study-classification.md.md",
     "category5-classification-structure/page14-hierarchy-vs-tags.md.md",
@@ -531,7 +532,6 @@
     "category2-resources-markdown/page4-what-is-markdown.md.md",
     "category1-foundations-of-organizing/page3-real-world-examples.md.md",
     "category1-foundations-of-organizing/page2-why-organization-matters.md.md",
-    "category1-foundations-of-organizing/page1-intro-to-organizing.md.md",
     "real-word-examples.md",
     "category4-creating-categories/folder-structure-examples.md.md",
     "category",

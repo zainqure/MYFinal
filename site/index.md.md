@@ -2,7 +2,7 @@
 title: Homepage
 date: 2025-10-03
 ---
-f# Welcome to My Project Site
+# Welcome to My Project Site
 
 This site is the final project for my course. It brings together everything I learned about **organizing, describing, and publishing information** using Markdown.  
 It is divided into seven main categories:
@@ -25,6 +25,6 @@ It is divided into seven main categories:
 ---
 
 **Navigation**  
-[→ Foundations of Organizing](page1-intro-to-organizing.md.md)
+[→ Next: Foundations of Organizing](page1-intro-to-organizing.md.md)
 
 *Created by Zainab Qureshi — Fall 2025*  
