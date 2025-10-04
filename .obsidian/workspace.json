@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "category1-foundations-of-organizing/page1-intro-to-organizing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "page1-intro-to-organizing"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 591.5
   },
   "right": {
     "id": "314c83d080d1ef5a",
@@ -171,31 +171,31 @@
   },
   "active": "537b296fa3083697",
   "lastOpenFiles": [
-    "sleep.md",
     "index.md",
-    "category6-interacting-with-information/index.md",
-    "category5-classification-structure/index.md",
-    "category4-creating-categories/index.md",
-    "category3-describing-resources/index.md",
-    "category2-resources-markdown/index.md",
-    "category7-publishing-managing-knowledge/index.md",
-    "category1-foundations-of-organizing/page1-intro-to-organizing.md",
-    "category6-interacting-with-information/page16-navigation-design.md",
-    "category7-publishing-managing-knowledge/page19-preparing-for-publication.md",
+    "about.md",
+    "references.md",
+    "category1-foundations-of-organizing/index.md",
     "category7-publishing-managing-knowledge/page21-portfolio-value.md",
     "category7-publishing-managing-knowledge/page20-maintaining-a-site.md",
+    "category7-publishing-managing-knowledge/page19-preparing-for-publication.md",
+    "category6-interacting-with-information/page18-user-experience.md",
     "category6-interacting-with-information/page17-linking-strategies.md",
-    "category5-classification-structure/page13-classification-systems.md",
-    "hierarchy-vs-tags.md",
+    "category6-interacting-with-information/page16-navigation-design.md",
+    "category5-classification-structure/page15-case-study-classification.md",
     "category5-classification-structure/page14-hierarchy-vs-tags.md",
-    "category1-foundations-of-organizing/index.md",
-    "category4-creating-categories/page10-how-to-group-information.md",
-    "category4-creating-categories/page11-folder-structure-examples.md",
+    "category5-classification-structure/page13-classification-systems.md",
     "category4-creating-categories/page12-pros-and-cons-of-categorization.md",
+    "category4-creating-categories/page11-folder-structure-examples.md",
+    "category4-creating-categories/page10-how-to-group-information.md",
+    "category3-describing-resources/page9-resource-description-standards.md",
     "category3-describing-resources/page8-importance-of-clear-descriptions.md",
     "category3-describing-resources/page7-metadata-basics.md",
-    "category3-describing-resources/page9-resource-description-standards.md",
+    "category2-resources-markdown/page6-benefits-of-markdown.md",
     "category2-resources-markdown/page5-markdown-formatting-guide.md",
-    "category2-resources-markdown/page4-what-is-markdown.md"
+    "category2-resources-markdown/page4-what-is-markdown.md",
+    "category1-foundations-of-organizing/page3-real-world-examples.md",
+    "category1-foundations-of-organizing/page1-intro-to-organizing.md",
+    "page3-real-world-examples.md.md",
+    "real-world-examples.md"
   ]
 }

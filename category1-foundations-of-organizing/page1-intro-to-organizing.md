@@ -26,13 +26,6 @@ Think about your computer: when files are scattered everywhere, it’s hard to l
 - Using tags or hashtags to link related content.  
 
 ---
-## Related Pages
-
-- [Why Organization Matters](why-organization-matters.md)  
-- [Real-World Examples](real-world-examples.md)  
-- [Homepage](../index.md)  
-
----
 
 **Navigation**  
 
