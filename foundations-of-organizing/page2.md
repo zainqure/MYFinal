@@ -29,4 +29,4 @@ When information is disorganized, people waste time searching, feel confused, an
 
 **Navigation**  
 
-[← Into to Organizing](foundations-of-organizing/page1.md) | [Back to Homepage](../index.md) | [Why Organization matters →](foundations-of-organizing/page3.md) 
+[← Into to Organizing](index-page1.md) | [Back to Homepage](../index.md) | [Why Organization matters →](foundations-of-organizing/page3.md) 

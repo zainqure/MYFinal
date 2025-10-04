@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "foundations-of-organizing/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,16 +169,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b2bfb8b5aae75e1",
+  "active": "186d93d996645b2a",
   "lastOpenFiles": [
+    "foundations-of-organizing/index-page1.md",
+    "foundations-of-organizing/index.md",
+    "index.md",
     "references.md",
     "resources-markdown/page6.md",
     "resources-markdown/page5.md",
-    "index.md",
     "about.md",
     "classification-structure/page13.md",
     "interacting-with-information/index.md",
-    "foundations-of-organizing/index.md",
     "publishing-managing-knowledge/page21.md",
     "publishing-managing-knowledge/page20.md",
     "publishing-managing-knowledge/page19.md",
@@ -196,7 +197,6 @@
     "describing-resources/page9.md",
     "describing-resources/page8.md",
     "describing-resources/page7.md",
-    "describing-resources/index.md",
     "Untitled.base",
     "Untitled.canvas",
     "publishing-managing-knowledge",
