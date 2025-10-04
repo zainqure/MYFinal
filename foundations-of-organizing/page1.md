@@ -29,4 +29,4 @@ Think about your computer: when files are scattered everywhere, it’s hard to l
 
 **Navigation**  
 
-[← Foundations of Organizing](foundations-of-organizing.md) | [Back to Homepage](../index.md) | [Real-World Examples →](page3.md)
+[← Foundations of Organizing](foundations-of-organizing/index.md) | [Back to Homepage](../index.md) | [Real-World Examples →](page3.md)

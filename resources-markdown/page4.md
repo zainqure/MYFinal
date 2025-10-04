@@ -24,4 +24,4 @@ This is **bold** and this is *italic*.
 
 **Navigation**  
 
-[← Resources Markdown](resources-markdown.md) | [Back to Homepage](../index.md) | [Markdown Formatting Guide →](page5.md)
+[← Resources Markdown](resources-markdown/index.md) | [Back to Homepage](../index.md) | [Markdown Formatting Guide →](page5.md)
