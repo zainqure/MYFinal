@@ -1,0 +1,47 @@
+---
+title: Metadate Basics
+date: 2025-10-03
+---
+# Metadata and Tags
+
+Metadata means "data about data." It gives structured information that helps identify and locate resources. Tags are keywords added to resources to group and connect them.  
+
+---
+
+## Metadata Examples
+
+- A **video**: title, length, upload date, creator.  
+- An **academic paper**: author, abstract, DOI, keywords.  
+- A **music track**: artist, album, genre, duration.  
+
+---
+
+## Tags
+
+Tags are user-generated keywords that describe a resource in a flexible way. They are common on social media, blogs, and digital libraries.  
+
+**Example:**  
+- A photo of pizza might have tags: *food, pizza, Italian, dinner*.  
+
+Tags help connect related content across categories.  
+
+---
+
+## Why Metadata and Tags Work Together
+
+- Metadata gives **structure** (consistent fields).  
+- Tags add **flexibility** (user-driven discovery).  
+
+---
+
+## Related Pages
+
+- [What is Resource Description?](what-is-resource-description.md)  
+- [Importance of Clear Descriptions](importance-of-clear-descriptions.md)  
+- [Homepage](../index.md)  
+
+---
+
+**Navigation**  
+
+ [Benefits of Markdown →](page6-benefits-of-markdown) | [Back to Homepage](../index.md) | [Importance of Clear Descriptions →](page8-importance-of-clear-descriptions.md)

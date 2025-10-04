@@ -1,0 +1,546 @@
+{
+  "main": {
+    "id": "625d136cb66f6cc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "50b0e1c3aee5fbfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d86e306465f1985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index.md"
+            }
+          },
+          {
+            "id": "e0aad16bb01b87ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about.md"
+            }
+          },
+          {
+            "id": "22e628c250e0968e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "references.md"
+            }
+          },
+          {
+            "id": "de2964472316e8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category1-foundations-of-organizing/page1-intro-to-organizing.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page1-intro-to-organizing.md"
+            }
+          },
+          {
+            "id": "774f7347e1021640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category1-foundations-of-organizing/page2-why-organization-matters.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page2-why-organization-matters.md"
+            }
+          },
+          {
+            "id": "285ecfcdac6889b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category1-foundations-of-organizing/page3-real-world-examples.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page3-real-world-examples.md"
+            }
+          },
+          {
+            "id": "a2966cfa69e11e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category5-classification-structure/page13-classification-systems.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page13-classification-systems.md"
+            }
+          },
+          {
+            "id": "107f69365e05a3ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category5-classification-structure/page14-hierarchy-vs-tags.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page14-hierarchy-vs-tags.md"
+            }
+          },
+          {
+            "id": "b7af8217b7273fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category5-classification-structure/page15-case-study-classification.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page15-case-study-classification.md"
+            }
+          },
+          {
+            "id": "03108881513dce34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category4-creating-categories/page10-how-to-group-information.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page10-how-to-group-information.md"
+            }
+          },
+          {
+            "id": "fa96dee30629aa3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category4-creating-categories/page12-pros-and-cons-of-categorization.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page12-pros-and-cons-of-categorization.md"
+            }
+          },
+          {
+            "id": "012d0264cb2cc71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category2-resources-markdown/page4-what-is-markdown.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page4-what-is-markdown.md"
+            }
+          },
+          {
+            "id": "bece0f3e2b8f5b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category2-resources-markdown/page5-markdown-formatting-guide.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page5-markdown-formatting-guide.md"
+            }
+          },
+          {
+            "id": "f4569d5a8ed6d08b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category2-resources-markdown/page6-benefits-of-markdown.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page6-benefits-of-markdown.md"
+            }
+          },
+          {
+            "id": "b899345ec452d52c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category7-publishing-managing-knowledge/page19-preparing-for-publication.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page19-preparing-for-publication.md"
+            }
+          },
+          {
+            "id": "18e3b9cdb0ad2f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category7-publishing-managing-knowledge/page20-maintaining-a-site.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page20-maintaining-a-site.md"
+            }
+          },
+          {
+            "id": "8968e2945b02a5fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category7-publishing-managing-knowledge/page21-portfolio-value.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page21-portfolio-value.md"
+            }
+          },
+          {
+            "id": "0707bedd2da7405d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category6-interacting-with-information/page16-navigation-design.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page16-navigation-design.md"
+            }
+          },
+          {
+            "id": "c1abc2c4ee3fc93d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category6-interacting-with-information/page17-linking-strategies.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page17-linking-strategies.md"
+            }
+          },
+          {
+            "id": "a8d6cb337c607164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category6-interacting-with-information/page18-user-experience.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page18-user-experience.md"
+            }
+          },
+          {
+            "id": "3ea2872dca5892d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category3-describing-resources/page7-metadata-basics.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page7-metadata-basics.md"
+            }
+          },
+          {
+            "id": "74e40d16ee76f06b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category3-describing-resources/page8-importance-of-clear-descriptions.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page8-importance-of-clear-descriptions.md"
+            }
+          },
+          {
+            "id": "464e9b09f4809ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category1-foundations-of-organizing/page3-real-world-examples.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page3-real-world-examples.md"
+            }
+          },
+          {
+            "id": "80ef505ee1ba983f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "category6-interacting-with-information/page16-navigation-design.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "page16-navigation-design.md"
+            }
+          },
+          {
+            "id": "0a83f9eff2872478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "references.md"
+            }
+          }
+        ],
+        "currentTab": 24
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ac695168461d75b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5763e83a9b0fe3c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf47a9ddb68eba70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cac49045b1d0de4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c431c5f31b205f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd60c3973cb3bede",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d126c34b28d0666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2fd52504460e80b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "references.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for references.md"
+            }
+          },
+          {
+            "id": "db7f23a3e78766e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "references.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from references.md"
+            }
+          },
+          {
+            "id": "7b4508b33343d7ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c8ecfab052b6625d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "references.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of references.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0a83f9eff2872478",
+  "lastOpenFiles": [
+    "index.md.md",
+    "about.md.md",
+    "references.md.md",
+    "category7-publishing-managing-knowledge/page21-portfolio-value.md.md",
+    "category7-publishing-managing-knowledge/page20-maintaining-a-site.md.md",
+    "category7-publishing-managing-knowledge/page19-preparing-for-publication.md.md",
+    "category6-interacting-with-information/page18-user-experience.md.md",
+    "category6-interacting-with-information/page17-linking-strategies.md.md",
+    "category6-interacting-with-information/page16-navigation-design.md.md",
+    "category5-classification-structure/page15-case-study-classification.md.md",
+    "category5-classification-structure/page14-hierarchy-vs-tags.md.md",
+    "category5-classification-structure/page13-classification-systems.md.md",
+    "category4-creating-categories/page12-pros-and-cons-of-categorization.md.md",
+    "category4-creating-categories/page11-folder-structure-examples.md.md",
+    "category4-creating-categories/page10-how-to-group-information.md.md",
+    "category3-describing-resources/page9-resource-description-standards.md.md",
+    "category3-describing-resources/page8-importance-of-clear-descriptions.md.md",
+    "category3-describing-resources/page7-metadata-basics.md.md",
+    "category2-resources-markdown/page6-benefits-of-markdown.md.md",
+    "category2-resources-markdown/page5-markdown-formatting-guide.md.md",
+    "category2-resources-markdown/page4-what-is-markdown.md.md",
+    "category1-foundations-of-organizing/page3-real-world-examples.md.md",
+    "category1-foundations-of-organizing/page2-why-organization-matters.md.md",
+    "category1-foundations-of-organizing/page1-intro-to-organizing.md.md",
+    "real-word-examples.md",
+    "category4-creating-categories/folder-structure-examples.md.md",
+    "category",
+    "category7-publishing-managing-knowledge",
+    "category6-interacting-with-information",
+    "category5-classification-structure",
+    "category4-creating-categories",
+    "category3-describing-resources",
+    "category2-resources-markdown",
+    "category1-foundations-of-organizing"
+  ]
+}
