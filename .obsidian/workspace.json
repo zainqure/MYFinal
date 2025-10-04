@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a86b31884745a22f",
+        "id": "aede11880e91f55f",
         "type": "tabs",
         "children": [
           {
-            "id": "537b296fa3083697",
+            "id": "0b2bfb8b5aae75e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 410.5
   },
   "right": {
     "id": "314c83d080d1ef5a",
@@ -165,44 +169,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "537b296fa3083697",
+  "active": "0b2bfb8b5aae75e1",
   "lastOpenFiles": [
-    "category1-foundations-of-organizing/page2-why-organization-matters.md",
-    "category1-foundations-of-organizing/page3-real-world-examples.md",
-    "category1-foundations-of-organizing/index.md",
-    "references.md",
+    "about.md",
+    "category6/interacting-with-information.md",
+    "Untitled.base",
+    "2025-10-04.md",
     "Untitled.canvas",
     "index.md",
-    "about.md",
+    "references.md",
+    "category1/page1.md",
+    "category4/page12.md",
+    "category5/page13.md",
+    "category4/page10.md",
+    "category2/page4.md",
+    "category1/page2.md",
+    "category1/page3.md",
+    "category1/foundations-of-organizing.md",
     "page1-into-to-organizition.md",
-    "category7-publishing-managing-knowledge/index.md",
-    "category6-interacting-with-information/index.md",
-    "category5-classification-structure/index.md",
-    "category4-creating-categories/index.md",
-    "category3-describing-resources/index.md",
-    "category2-resources-markdown/index.md",
-    "category2-resources-markdown/page5-markdown-formatting-guide.md",
-    "category2-resources-markdown/page4-what-is-markdown.md",
-    "category1-foundations-of-organizing/page1-intro-to-organizing.md",
-    "category7-publishing-managing-knowledge/page21-portfolio-value.md",
-    "category7-publishing-managing-knowledge/page19-preparing-for-publication.md",
-    "category7-publishing-managing-knowledge/page20-maintaining-a-site.md",
-    "category7-publishing-managing-knowledge",
-    "category6-interacting-with-information/page18-user-experience.md",
-    "category6-interacting-with-information/page17-linking-strategies.md",
-    "category6-interacting-with-information/page16-navigation-design.md",
-    "category6-interacting-with-information",
-    "category5-classification-structure/page15-case-study-classification.md",
-    "category5-classification-structure/page14-hierarchy-vs-tags.md",
-    "category5-classification-structure/page13-classification-systems.md",
-    "category5-classification-structure",
-    "category4-creating-categories",
-    "category3-describing-resources",
-    "category2-resources-markdown",
-    "category1-foundations-of-organizing",
+    "category7/publishing-managing-knowledge.md",
+    "category5/classification-structure.md",
+    "category4/creating-categories.md",
+    "category3/describing-resources.md",
+    "category2/resources-markdown.md",
+    "category2/page5.md",
+    "category7/page21.md",
+    "category7/page19.md",
+    "category7/page20.md",
+    "category7",
+    "category6/page18.md",
+    "category6/page17.md",
+    "category6",
+    "category5",
+    "category4",
+    "category3",
+    "category2",
+    "category1",
     "docs/Untitled.canvas",
     "docs/Untitled 1.base",
-    "docs/Untitled.base",
-    "docs/category7-publishing-managing-knowledge"
+    "docs/Untitled.base"
   ]
 }
