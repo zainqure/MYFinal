@@ -17,7 +17,7 @@ Markdown allows us to create clean, well-structured documents without complicate
 
 ---
 ## Related Pages
-- [What is Markdown](page4.md) 
-- [Markdown Formatting Guide ](page5.md)
-- [Benefits of Markdown](page6.md)  
-- [Homepage](../index.md)  
+- [What is Markdown](resources-markdown/page4.md)
+- [Markdown Formatting Guide](resources-markdown/page5.md)
+- [Benefits of Markdown](resources-markdown/page6.md)
+- [Homepage](../index.md)

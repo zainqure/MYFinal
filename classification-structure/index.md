@@ -17,7 +17,7 @@ Classification gives us a logical framework for arranging information. It’s a 
 
 ---
 ## Related Pages
-- [Classification Systems](page13.md) 
-- [Hierarchy vs. Tags](page14.md)  
-- [Case Study Classification ](page15.md)
-- [Homepage](../index.md)  
+- [Classification Systems](classification-structure/page13.md)
+- [Hierarchy vs. Tags](classification-structure/page14.md)
+- [Case Study Classification ](classification-structure/page15.md)
+- [Homepage](../index.md)

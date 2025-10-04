@@ -17,7 +17,7 @@ Clear resource descriptions make it easier to classify, find, and connect inform
 
 ---
 ## Related Pages
-- [Metadata Basics](page7.md)
-- [Importance of Clear Descriptions](page8.md)
-- [Resource Description Standards](page9.md)
-- [Homepage](../index.md)  
+- [Metadata Basics](describing-resources/page7.md)
+- [Importance of Clear Descriptions](describing-resources/page8.md)
+- [Resource Description Standards](describing-resources/page9.md)
+- [Homepage](../index.md)

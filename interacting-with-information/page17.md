@@ -20,4 +20,4 @@ Links connect pages and guide users through your site. Strong linking improves b
 
 **Navigation**  
 
- [Navigation Design→](page16.md) | [Back to Homepage](../index.md) | [User Experience →](page18.md)
+ [Navigation Design→](interacting-with-information/page16.md) | [Back to Homepage](../index.md) | [User Experience →](interacting-with-information/page18.md)

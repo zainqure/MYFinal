@@ -33,4 +33,4 @@ Organized and well-described resources make a website or collection more profess
 
 **Navigation**  
 
- [Metadata Basics →](page7.md) | [Back to Homepage](../index.md) | [Resource Description Standards →](page9.md)
+ [Metadata Basics →](describing-resources/page7.md) | [Back to Homepage](../index.md) | [Resource Description Standards →](describing-resources/page9.md)

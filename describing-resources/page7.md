@@ -36,4 +36,4 @@ Tags help connect related content across categories.
 
 **Navigation**  
 
- [Benefits of Markdown →](page6.md) | [Back to Homepage](../index.md) | [Importance of Clear Descriptions →](page8.md)
+ [Benefits of Markdown →](describing-resources/index.md) | [Back to Homepage](../index.md) | [Importance of Clear Descriptions →](describing-resources/page8.md)

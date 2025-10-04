@@ -26,5 +26,5 @@ Without clear descriptions, resources become invisible. Imagine a library where 
 
 **Navigation**  
 
- [Importance of Clear Descriptions→](page8.md) | [Back to Homepage](../index.md) | [How To Group Information →](page10.md)
+ [Importance of Clear Descriptions→](describing-resources/page8.md) | [Back to Homepage](../index.md) | [How To Group Information →](creating-categories/index.md)
  

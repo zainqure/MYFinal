@@ -25,4 +25,4 @@ Many systems combine both for best results.
 
 **Navigation**  
 
- [Classification Systems→](page13.md) | [Back to Homepage](../index.md) | [Case Study Classification →](page15.md)
+ [Classification Systems→](classification-structure/page13.md) | [Back to Homepage](../index.md) | [Case Study Classification →](classification-structure/page15.md)

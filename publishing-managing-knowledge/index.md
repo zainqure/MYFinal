@@ -17,7 +17,7 @@ Publishing transforms an idea into a real, usable resource. Maintaining it ensur
 
 ---
 ## Related Pages
-- [Preparing For Publication](page19.md) 
-- [Maintaining a Site](page20.md)
-- [Portfolio Value](page21.md)
-- [Homepage](../index.md)  
+- [Preparing For Publication](publishing-managing-knowledge/page19.md)
+- [Maintaining a Site](publishing-managing-knowledge/page20.md)
+- [Portfolio Value](publishing-managing-knowledge/page21.md)
+- [Homepage](../index.md)

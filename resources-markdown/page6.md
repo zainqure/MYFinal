@@ -35,4 +35,4 @@ In digital projects, consistency and clarity are crucial. Markdown allows people
 
 **Navigation**  
 
- [Markdown Formatting Guide →](page5.md) | [Back to Homepage](../index.md) | [Metadata basics →](page7.md)
+ [Markdown Formatting Guide →](resources-markdown/page5.md) | [Back to Homepage](../index.md) | [Describing Resources →](describing-resources/index.md)

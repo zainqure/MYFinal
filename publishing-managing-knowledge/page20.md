@@ -19,4 +19,4 @@ Regular updates keep your site **relevant**, **useful**, and **trusted**.
 
 **Navigation**  
 
- [Preparing For Publication→](page19.md) | [Back to Homepage](../index.md) | [Portfolio Value →](page21.md)
+ [Preparing For Publication→](publishing-managing-knowledge/page19.md) | [Back to Homepage](../index.md) | [Portfolio Value →](publishing-managing-knowledge/page21.md)

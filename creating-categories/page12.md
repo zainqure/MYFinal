@@ -23,4 +23,4 @@ Good categories balance **clarity** and **flexibility**.
 
 **Navigation**  
 
- [Folder Structure Examples→](page11.md) | [Back to Homepage](../index.md) | [Classification Systems →](page13.md)
+ [Folder Structure Examples→](creating-categories/page11.md) | [Back to Homepage](../index.md) | [Classification Structure →](classification-structure/index.md)

@@ -19,7 +19,7 @@ Good categories make information easier to navigate and understand. Poor categor
 
 ## Related Pages
 
-- [How To Group Information ](page12.md)
-- [Pros and Cons of categorization ](page12.md)
-- [Folder Structure examples ](page11.md)
+- [How To Group Information](creating-categories/page10.md)
+- [Folder Structure examples](creating-categories/page11.md)
+- [Pros and Cons of categorization](creating-categories/page12.md)
 - [Homepage](../index.md)  

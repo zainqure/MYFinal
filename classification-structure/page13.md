@@ -17,4 +17,4 @@ Classification reduces chaos and makes it easier to search, compare, and retriev
 ---
 **Navigation**  
 
- [Pros and Cons of Categorization→](page12.md) | [Back to Homepage](../index.md) | [Hierarchy vs Tags →](page14.md)
+ [Classification Structure→](classification-structure/index.md) | [Back to Homepage](../index.md) | [Hierarchy vs Tags →](classification-structure/page14.md)

@@ -32,4 +32,4 @@ project/
 
 **Navigation**  
 
- [How To Group Information→](page10.md) | [Back to Homepage](../index.md) | [Pros and Cons of categorization →](page12.md)
+ [How To Group Information→](creating-categories/page10.md) | [Back to Homepage](../index.md) | [Pros and Cons of categorization →](creating-categories/page12.md)

@@ -19,7 +19,7 @@ A well-organized site still needs clear navigation and good design. Interaction 
 ---
 
 ## Related Pages
-- [Navigation Design](page16.md)
-- [Linking Strategies ](page17.md)
-- [User Experience ](page18.md)
-- [Homepage](../index.md)  
+- [Navigation Design](interacting-with-information/page16.md)
+- [Linking Strategies ](interacting-with-information/page17.md)
+- [User Experience ](interacting-with-information/page18.md)
+- [Homepage](../index.md)

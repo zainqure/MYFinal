@@ -39,4 +39,4 @@ By noticing organization in action, we understand why it’s important to design
 
 **Navigation**  
 
-[← Real World Example](page3.md) | [Back to Homepage](../index.md) | [What is Markdown →](page4.md) 
+[← Real World Example](foundations-of-organizing/page3.md) | [Back to Homepage](../index.md) | [What is Markdown →](foundations-of-organizing/page4.md) 

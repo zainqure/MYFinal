@@ -19,4 +19,4 @@ A site with poor UX frustrates users, while a site with good UX keeps them engag
 
 **Navigation**  
 
- [Linking Strategies→](page17.md) | [Back to Homepage](../index.md) | [Preparing For Publication →](page19.md)
+ [Linking Strategies→](interacting-with-information/page17.md) | [Back to Homepage](../index.md) | [Publishing Managing Knowledge →](publishing-managing-knowledge/index.md)

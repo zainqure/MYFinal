@@ -19,4 +19,4 @@ A site that feels **unfinished** can frustrate users. Preparing carefully ensure
 
 **Navigation**  
 
- [User Experience→](page18.md) | [Back to Homepage](../index.md) | [Maintaining a Site →](page20.md)
+ [Publishing Managing Knowledge →](publishing-managing-knowledge/index.md) | [Back to Homepage](../index.md) | [Maintaining a Site →](publishing-managing-knowledge/page20.md)

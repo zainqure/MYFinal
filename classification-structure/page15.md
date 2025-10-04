@@ -22,4 +22,4 @@ This mix of methods makes the site both **organized** and **user-friendly**.
 
 **Navigation**  
 
- [Hierarchy vs Tags→](page14.md) | [Back to Homepage](../index.md) | [Navigation Design →](page16.md)
+ [Hierarchy vs Tags→](classification-structure/page14.md) | [Back to Homepage](../index.md) | [Navigation Design →](interacting-with-information/index.md)

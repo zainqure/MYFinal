@@ -19,4 +19,4 @@ A recipe site might use:
 
 **Navigation**  
 
- [Case Study Classification→](page15.md) | [Back to Homepage](../index.md) | [Linking Strategies →](page17.md)
+ [Interacting With Information→](interacting-with-information/index.md) | [Back to Homepage](../index.md) | [Linking Strategies →](interacting-with-information/page17.md)

@@ -31,4 +31,4 @@ Markdown makes writing clean and structured notes very easy.
 
 **Navigation**  
 
-[← What is Markdown](page4.md) | [Back to Homepage](../index.md) | [Benefits of Markdown →](page6.md)
+[← What is Markdown](resources-markdownpage4.md) | [Back to Homepage](../index.md) | [Benefits of Markdown →](resources-markdownpage6.md)

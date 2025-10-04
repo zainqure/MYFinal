@@ -19,4 +19,4 @@ Your site is more than a class project—it’s proof of your **real-world skill
 
 **Navigation**  
 
- [Maintaining a Site→](page20.md) | [Back to Homepage](../index.md) |
+ [Maintaining a Site→](publishing-managing-knowledge/page20.md) | [Back to Homepage](../index.md) | 
