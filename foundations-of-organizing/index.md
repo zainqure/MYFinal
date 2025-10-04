@@ -18,6 +18,6 @@ A strong foundation in organization helps us understand the rest of the site. Be
 ---
 ## Related Pages
 - [Introduction to Organizing](page1.md)
-- [Why Organization Matters](foundations-of-organizing/page2.md)
-- [Real-World Examples](foundations-of-organizing/page3.md)
+- [Why Organization Matters](page2.md)
+- [Real-World Examples](page3.md)
 - [Homepage](../index.md)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "foundations-of-organizing/index.md",
+                "file": "foundations-of-organizing/page1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "page1"
             }
           }
         ]
@@ -169,11 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "186d93d996645b2a",
+  "active": "0b2bfb8b5aae75e1",
   "lastOpenFiles": [
+    "foundations-of-organizing/index.md",
     "foundations-of-organizing/page1.md",
     "index.md",
-    "foundations-of-organizing/index.md",
     "references.md",
     "resources-markdown/page6.md",
     "resources-markdown/page5.md",
